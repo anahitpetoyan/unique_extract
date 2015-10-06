@@ -6,5 +6,6 @@ The script will function to extract the unique values from  a column from a .csv
 them to a file.
 
 ## List of Dependences
+python, basha, vmd, shell
 
 
