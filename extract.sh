@@ -4,4 +4,4 @@
 # of a csv file
 
 cut -f 2 -d',' data/antibiotics.csv | sort | uniq > antibiotics_unique.csv
-cut -f 2 -d
+cut -f 3 -d','
